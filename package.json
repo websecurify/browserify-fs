@@ -1,5 +1,5 @@
 {
-  "name": "browserify-fs",
+  "name": "ws-browserify-fs",
   "version": "1.0.0",
   "description": "fs for the browser using level-filesystem and browserify",
   "repository": "mafintosh/browserify-fs",
@@ -10,7 +10,7 @@
     "filesystem"
   ],
   "dependencies": {
-    "level-filesystem": "^1.0.1",
+    "ws-level-filesystem": "^1.2.1",
     "level-js": "^2.1.3",
     "levelup": "^0.18.2"
   }
