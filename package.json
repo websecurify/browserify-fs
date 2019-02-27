@@ -12,6 +12,6 @@
   "dependencies": {
     "level-js": "^4.0.0",
     "levelup": "^4.0.0",
-    "ws-level-filesystem": "^1.2.1"
+    "ws-level-filesystem": "^3.0.0"
   }
 }
