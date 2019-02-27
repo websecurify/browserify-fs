@@ -1,6 +1,6 @@
 {
   "name": "ws-browserify-fs",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "fs for the browser using level-filesystem and browserify",
   "repository": "websecurify/browserify-fs",
   "keywords": [
